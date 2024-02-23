@@ -9,3 +9,5 @@
 04 - Funzioni
 
 05 - Liste
+
+06 - Dizionari, tuple e set
